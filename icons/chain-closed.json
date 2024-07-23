@@ -1,0 +1,15 @@
+{
+  "$schema": "../icon.schema.json",
+  "contributors": [
+    "fabian1606"
+  ],
+  "tags": [
+    "chain",
+    "aspact ratio",
+    "lock"
+  ],
+  "categories": [
+    "layout",
+    "design"
+  ]
+}
